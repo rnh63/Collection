@@ -38,7 +38,8 @@ type
   end;
 
   sdasdas
-  sdasdas
+  sdasdas1111111111111111111111
+  
 
   TZMemNodeList<TClassOfType> = class(TZBaseClassList)
   private
