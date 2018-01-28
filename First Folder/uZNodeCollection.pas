@@ -28,6 +28,11 @@ type
 
   TZBaseClassList = class(TList)
   private
+
+  dddd
+  dddd
+  ddddd
+  
   public
     constructor Create;
   end;
