@@ -30,9 +30,9 @@ type
   private
 
   dddd
-  dddd
+  dddd11111
   ddddd
-  
+
   public
     constructor Create;
   end;
