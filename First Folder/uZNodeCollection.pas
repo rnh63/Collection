@@ -32,6 +32,9 @@ type
     constructor Create;
   end;
 
+  sdasdas
+  sdasdas
+
   TZMemNodeList<TClassOfType> = class(TZBaseClassList)
   private
     FValues: array of TZMemNode<TClassOfType>;
