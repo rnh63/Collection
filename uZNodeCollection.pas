@@ -5,6 +5,8 @@ interface
 uses
   System.Classes;
 
+111111
+
 
 type
 //  IZMemNode = interface;
