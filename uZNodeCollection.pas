@@ -1,9 +1,17 @@
+<<<<<<< HEAD
+Hot Fix2.A/2
+=======
+Hot Fix1.
+>>>>>>> hf1
+fgdgdf
 unit uZNodeCollection;
 
 interface
 
 uses
   System.Classes;
+
+111111
 
 
 type
